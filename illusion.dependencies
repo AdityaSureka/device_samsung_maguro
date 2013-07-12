@@ -35,7 +35,7 @@
         "branch":     "jb4.2"
     },
     {
-        "repository":  "SlimRoms/kernel_samsung_tuna",
+        "repository":  "imoseyon/leanKernel-galaxy-nexus",
         "target_path": "kernel/samsung/tuna",
         "branch": "jb4.2"
     }
